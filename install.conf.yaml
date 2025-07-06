@@ -1,0 +1,10 @@
+- defaults:
+    link:
+      create: true
+      force: true
+      relink: true
+
+- link:
+  ~/.config/fish/config.fish: fish/config.fish
+  ~/.config/alacritty/alacritty.toml: alacritty/alacritty.toml
+  ~/.config/nvim/init.lua: nvim/init.lua
