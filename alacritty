@@ -3,7 +3,7 @@
 decorations = "Full"
 startup_mode = "Maximized"
 
-# Font size incraseed for my blind ass to 16
+# Font size increased for my blind ass to 16
 [font]
 size = 16.0
 

@@ -9,14 +9,15 @@ source /usr/share/cachyos-fish-config/cachyos-config.fish
 ## Fish prompt adds time to prompt
 function fish_prompt
     set_color magenta
-    echo -n '🕒 '(date "+%H:%M:%S")' '
+    echo -n '💀 '(date "+%H:%M:%S")' '
 
     set_color cyan
     echo -n '📁 '(prompt_pwd)' '
 
     set_color normal
-    echo -n '🚀 '
+    echo -n '⚡ '
 end
 
 ## Alias
 alias ls="eza -alT --long --level=2" 
+alias cat="bat"
