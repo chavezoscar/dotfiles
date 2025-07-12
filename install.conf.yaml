@@ -13,3 +13,4 @@
     ~/.config/plasma-org.kde.plasma.desktop-appletsrc.: kde/plasma-org.kde.plasma.desktop-appletsrc
     ~/.config/gtkrc: kde/gtkrc
     ~/.config/gtk-3.0/settings.ini: kde/settings.ini
+    "~/.local/share/konsole/Profile 1.profile": "konsole/Profile 1.profile" # needs "" since file name has spaces
