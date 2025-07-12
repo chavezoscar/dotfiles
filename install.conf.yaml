@@ -7,4 +7,9 @@
     ~/.config/fish/config.fish: config.fish
     ~/.config/alacritty/alacritty.toml: alacritty
     ~/.config/nvim/init.lua: nvim_init
-
+    ~/.config/kdeglobals: kde/kdeglobals
+    ~/.config/plasmarc: kde/plasmarc
+    ~/.config/kwinrc: kde/kwinrc
+    ~/.config/plasma-org.kde.plasma.desktop-appletsrc.: kde/plasma-org.kde.plasma.desktop-appletsrc
+    ~/.config/gtkrc: kde/gtkrc
+    ~/.config/gtk-3.0/settings.ini: kde/settings.ini
