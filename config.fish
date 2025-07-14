@@ -24,4 +24,4 @@ alias ls="eza -alT --long --level=2"
 # Replace with cat with bat since bat is better on the terminal display
 alias cat="bat"
 # Makes clear just clear the terminal, but allow scrollback
-alias clear="clear -x" 
+alias clear="clear -x; echo '🧼 Clean slate'" 
