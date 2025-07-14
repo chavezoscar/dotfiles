@@ -5,7 +5,6 @@
 set -e
 
 echo "#!/usr/bin/env bash"
-set -e
 
 # Setting up essential packages
 
