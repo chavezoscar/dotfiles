@@ -138,6 +138,9 @@ XftHintStyle=hintslight
 XftSubPixel=rgb
 font=Noto Sans,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
+[Icons]
+Theme=We10X
+
 [KDE]
 AnimationDurationFactor=0.25
 LookAndFeelPackage=com.github.vinceliuice.Layan

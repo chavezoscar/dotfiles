@@ -19,6 +19,7 @@ packages=(
   brave-bin
   steam
   lutris
+  yay
 )
 sudo pacman -S --needed --noconfirm "${packages[@]}"
 
