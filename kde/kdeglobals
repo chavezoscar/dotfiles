@@ -139,7 +139,7 @@ XftSubPixel=rgb
 font=Noto Sans,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [Icons]
-Theme=We10X
+Theme=Win11-dark
 
 [KDE]
 AnimationDurationFactor=0.25
