@@ -2,7 +2,9 @@
     link:
       create: true
       force: true
-
+- shell:
+  - command: mkdir -p ~/scripts
+    description: "Create scripts directory if missing"
 - link:
     ~/.config/fish/config.fish: config.fish
     ~/.config/alacritty/alacritty.toml: alacritty
@@ -14,3 +16,6 @@
     ~/.config/gtkrc: kde/gtkrc
     ~/.config/gtk-3.0/settings.ini: kde/settings.ini
     "~/.local/share/konsole/Profile 1.profile": "konsole/Profile 1.profile" # needs "" since file name has spaces
+    ~/scripts/update-helper.sh: scripts/update-helper.sh
+
+   

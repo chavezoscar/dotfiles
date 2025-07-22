@@ -25,3 +25,5 @@ alias ls="eza -alT --long --level=2"
 alias cat="bat"
 # Makes clear just clear the terminal, but allow scrollback
 alias clear="clear -x; echo '🧼 Clean screen'" 
+# Custom script to check internet, create a timeshift back up, and then udpate
+alias updatehelper="~/scripts/update-helper.sh"
